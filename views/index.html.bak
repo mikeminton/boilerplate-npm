@@ -9,7 +9,7 @@
    </head>
 
    <body>
-      <div style="text-align:center;width: 1200px;margin: 0 auto;border-style: dotted;" class="container">
+      <div class="container">
          <h1>Manage Node.js projects and npm packages using package.json</h1>
          <h3>Part 1 of Free Code Camp Backend Challenges</h3>
       </div>

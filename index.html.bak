@@ -4,6 +4,9 @@
     <meta http-equiv="refresh" content="7; url='http://boilerplate-npm.minton.tech/views/index.html'" />
   </head>
   <body>
-    <p>Please follow <a href="http://boilerplate-npm.minton.tech/views/index.html">this link</a>.</p>
+	<div style="text-align:center;width: 1200px;margin: 0 auto;border-style: dotted;">
+		<h1>This page will redirect automatically</h1>
+		<p>If you are not redirected please follow <a href="http://boilerplate-npm.minton.tech/views/index.html">this link</a>.</p>
+	</div>
   </body>
 </html>
