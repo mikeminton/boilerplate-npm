@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='http://boilerplate-npm.minton.tech/views/index.html'" />
+  </head>
+  <body>
+    <p>Please follow <a href="http://boilerplate-npm.minton.tech/views/index.html">this link</a>.</p>
+  </body>
+</html>
