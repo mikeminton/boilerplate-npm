@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mike Minton Shrewsbury UK",
-	"version": "1.0.0",
+	"author": "Mike Minton, Shrewsbury, UK",
 	"description": "FCC API by Mike Minton, Shrewsbury, UK",
 	"dependencies": {
 		"express": "^4.14.0"
