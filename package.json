@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mike Minton, Shrewsbury, UK",
+	"version": "1.2.0",
 	"description": "FCC API by Mike Minton, Shrewsbury, UK",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -12,5 +13,12 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mikeminton/boilerplate-npm.git"
-	}
+	},
+	"license": "MIT",
+	"keywords": [
+		"freecodecamp",
+		"mike minton",
+		"shrewsbury",
+		"uk"
+	]
 }
